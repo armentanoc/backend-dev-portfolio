@@ -28,7 +28,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: 'Carolina Armentano - @armentanoc'
   })
 
   head.link.push({
@@ -36,5 +36,3 @@ export default function (Vue, { router, head, isClient }) {
     href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
   })
 }
-
-
